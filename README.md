@@ -5,7 +5,6 @@ Projeto correspondente à proposta de Atividade Supervisionada do Semestre da di
 
 Os integrantes do grupo e participantes do projeto são:
 
-> Murillo S Nunes<br />
 > Augusto B de Moura<br />
 > João Paulo O Cabral<br />
 > Murilo de Oliveira Silva<br />
